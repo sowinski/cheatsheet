@@ -1,5 +1,10 @@
 # cheatsheet
 
+## SSH
+
+#### Port Forwarding
+ssh -L 7000:localhost:7000 username@example.com
+
 ## Linux/Bash
 
 #### Delete all php files in folder and subfolder
